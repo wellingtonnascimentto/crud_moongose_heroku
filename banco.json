@@ -1,0 +1,67 @@
+      
+[ 
+    { 
+        "nome": "Brasil",
+        "população": 213317639000,
+        "lingua mãe": "Português",
+        "PIB": 7.400000000000
+    },
+    {
+        "nome": "França",
+        "população": 67.348000 ,
+        "lingua mãe": "Francês",
+        "PIB": 2.603000000000
+    },
+    {
+        "nome": "",
+        "população": "",
+        "lingua mãe": "",
+        "PIB": ""
+    },
+
+
+    
+        
+    {   
+        "nome": "São Paulo",
+        "região": "Sudeste" ,
+        "população": 46.649132,
+        "valor salario minimo": 1.163
+    },
+    {   
+        
+        "nome": "Guadeloupe",
+        "região": "Sul",
+        "população": 403.750,
+        "valor salario minimo": 1.900
+    },
+    {   
+        
+        "nome":"" ,
+        "região":"" ,
+        "população": "",
+        "valor salario minimo":""
+    },
+
+   
+
+    {
+        "nome": "São Paulo",
+        "quantidade de bairros": 96,
+        "população": 12.396372,
+        "data de aniversão da cidade": "25 de Janeiro"
+    },
+    {
+        "nome": "Paris",
+        "quantidade de bairros": 80,
+        "população": 2.161000,
+        "data de aniversão da cidade": "14 de Julho"
+    },
+    {
+        "nome": "",
+        "quantidade de bairros":"" ,
+        "população": "",
+        "data de aniversão da cidade":""
+    }
+
+]

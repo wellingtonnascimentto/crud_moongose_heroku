@@ -1,0 +1,29 @@
+{
+  "name": "crud_moongose_heroku",
+  "version": "1.0.0",
+  "description": "projeto 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wellingtonnascimentto/crud_moongose_heroku.git"
+  },
+  "author": "Wellington/Felipe",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/wellingtonnascimentto/crud_moongose_heroku/issues"
+  },
+  "homepage": "https://github.com/wellingtonnascimentto/crud_moongose_heroku#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
