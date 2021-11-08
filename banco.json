@@ -12,11 +12,11 @@
         "lingua mãe": "Francês",
         "PIB": 2.603000000000
     },
-    {
-        "nome": "",
-        "população": "",
-        "lingua mãe": "",
-        "PIB": ""
+    { 
+        "nome": "Estados Unidos",
+        "populacao": 325719178,
+        "linguamae": "Ingles",
+        "pib": 22.675000000000
     },
 
 
@@ -37,10 +37,11 @@
     },
     {   
         
-        "nome":"" ,
-        "região":"" ,
-        "população": "",
-        "valor salario minimo":""
+        "nome": "Washington",
+        "regiao": "Noroeste Pacifico",
+        "populacao": 7.615000,
+        "salariominimo": 2.628
+      
     },
 
    
@@ -58,10 +59,10 @@
         "data de aniversão da cidade": "14 de Julho"
     },
     {
-        "nome": "",
-        "quantidade de bairros":"" ,
-        "população": "",
-        "data de aniversão da cidade":""
+        "nome": "Nova Iorque",
+        "quantidadebairros": 60,
+        "populacao": 8.804190 ,
+        "aniversariocidade": "4 de Julho"
     }
 
 ]
